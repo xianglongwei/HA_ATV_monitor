@@ -1,5 +1,5 @@
 # HA_ATV_monitor
-# HA 联动电视开机关机
+# APPLE TV 联动电视开机关机
 电视没有ECC功能，无法用一个遥控器进行开关，可使用此方法
 
 # 使用docker 项目：
