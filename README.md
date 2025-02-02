@@ -92,7 +92,7 @@ atvremote --id <AppleTV-ID> info
 用 atvremote scan 得到的 ID 来替换 <AppleTV-ID>，例如：
 ```
 
-atvremote --id 8710F4C0-9069-435C-B423-FF29472CA285 info
+atvremote --id xxxxxxxxxxxxxxxxxxxxx info
 ```
 
 
